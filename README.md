@@ -9,6 +9,9 @@ https://rocantene.github.io/portfolio/js_slider/index.html
 * CSS(3)
 * JavaScript (ES6)
 
+### Задачи:
+* Слайдер автоматически подстраивается под количество изображений
+* Адаптивный слайдер
 
 
 
